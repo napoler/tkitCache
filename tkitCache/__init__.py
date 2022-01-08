@@ -6,6 +6,6 @@ Blog: https://terrychan.org
 
 """
 import os
-
+from Cache import tkitCache
 if __name__ == '__main__':
     pass
